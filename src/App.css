@@ -1,0 +1,62 @@
+.App {
+  min-height:100vh;
+  background-color:#c6DBDA;
+}
+
+.form{
+  min-height:10vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+h1{
+  margin:0px;
+  text-align:center;
+}
+
+.bar{
+  width:50%;
+  border:none;
+  padding:10px;
+}
+
+.button{
+  background-color:#F6EAC2;
+  border:none;
+  padding:10px 20px;
+  color:white;
+}
+button:hover{
+  cursor:pointer;
+  background-color:green;
+}
+.recipes{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap:wrap;
+}
+.App-links{
+  display:flex;
+  justify-content:space-around;
+  color:lightblue;
+  font-size:20px;
+  padding:2px;
+  list-style-type:none;
+}
+#App-links-item{
+  color: lightgoldenrodyellow;
+  text-decoration:none;
+  border:solid 5px  lightgoldenrodyellow;
+
+  color: coral; 
+  color: lightgoldenrodyellow;
+
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 2px;
+}
+#App-links-item:hover{
+  cursor:pointer;
+  background-color:green;
+  border: green;
+}

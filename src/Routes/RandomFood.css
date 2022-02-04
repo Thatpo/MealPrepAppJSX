@@ -1,0 +1,61 @@
+.Random-container{
+   background-color:#c6DBDA;
+}
+.Random-h1{
+    font-family: 'Kanit', sans-serif;
+    letter-spacing:2px;
+    font-size:70px;
+    color:lightgoldenrodyellow;
+}
+
+.Random-button{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+    margin:20px;
+}
+.Random-button button{
+    font-family: 'Kanit', sans-serif;
+    font-size:20px;
+    letter-spacing:2px;
+    color:lightgoldenrodyellow;
+    background-color:#c6DBDA;
+    border: solid 5px lightgoldenrodyellow;
+}
+.Random-button button:hover{
+    cursor:pointer;
+    background-color:green;
+    border: green;
+}
+.Random-links{
+    display:flex;
+    justify-content:space-around;
+    color:lightblue;
+    font-size:20px;
+    padding:2px;
+    list-style-type:none;
+}
+#Random-links-item{
+    color: lightgoldenrodyellow;
+    text-decoration:none;
+    border:solid 5px coral;
+    border:solid 5px lightgoldenrodyellow;
+    color: coral; 
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 2px;
+    color:lightgoldenrodyellow;
+
+}
+#Random-links-item:hover{
+    cursor:pointer;
+    background-color:green;
+    border: green;
+}
+
+@media only screen and (max-width: 750px) {
+    .Random-container h1{
+        font-size:2.5rem;
+    }
+    
+ }
