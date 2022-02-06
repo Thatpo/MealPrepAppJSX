@@ -16,6 +16,9 @@ Food Generator Page allows for users to randomly submit dishes in the case that 
 Nutrition Page allows for users to learn more about their health through taking the bmi calculator and reading more about the importance of healthly eating
 
 #Tools
+
 React Router
+
 Hooks(useContext, useState, useEffect)
+
 Edamam api
