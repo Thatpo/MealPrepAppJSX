@@ -1,4 +1,4 @@
-Meal Prep App
+Meal Prep Application
 
 This is a meal preparation app that allows users to search up different dishes, generate random dishes find out there bmi and learn more about there health and also take a food quiz to test their knowledge about different foods.
 
