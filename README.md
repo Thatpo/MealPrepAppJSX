@@ -1,8 +1,8 @@
-#Meal Prep App
+Meal Prep App
 
 This is a meal preparation app that allows users to search up different dishes, generate random dishes find out there bmi and learn more about there health and also take a food quiz to test their knowledge about different foods.
 
-#Pages
+Pages
 There are 5 pages on the application that allows for users to interact with the above mentioned functionality.
 
 Home screen details information about each of the different pages, above this page heirachicaly the react router renders this page first.
@@ -15,7 +15,7 @@ Food Generator Page allows for users to randomly submit dishes in the case that 
 
 Nutrition Page allows for users to learn more about their health through taking the bmi calculator and reading more about the importance of healthly eating
 
-#Tools
+Tools
 
 React Router
 
